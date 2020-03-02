@@ -1,6 +1,9 @@
 # EleventyOne
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/056b4a67-70e6-4af4-9be5-dee151b8e906/deploy-status)](https://app.netlify.com/sites/eleventyone/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d866a7d9-fef5-474f-9422-56171b72576c/deploy-status)](https://app.netlify.com/sites/cncfkochi/deploys)
+
+
+
 
 Phil's first port of call when starting another project using Eleventy.
 
