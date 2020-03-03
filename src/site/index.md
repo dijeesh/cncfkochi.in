@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 ## Welcome
 
-We are a group of peoples interested in talking about Cloud Native and Opensource Technologies. We’re excited about microservices, containers, the distributions that run them and the solutions that deploy, manage, and extend them. Any skill level is welcome. Contact us if you are interested in speaking at or sponsoring the meet-up. We welcome content and demos.
+We are a group of peoples interested in talking about Cloud Native and Open source Technologies. We’re excited about microservices, containers, the distributions that run them and the solutions that deploy, manage, and extend them. Any skill level is welcome. Contact us if you are interested in speaking at or sponsoring the meet-up. We welcome content and demos.
 
 
 
