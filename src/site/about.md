@@ -1,7 +1,7 @@
 ---
-title: Get Yours
+title: About us
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+# subtitle: Clone and deploy your own EleventyOne starter template.
 ---
 
 ## Hosting
