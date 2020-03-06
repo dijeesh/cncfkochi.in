@@ -9,7 +9,6 @@ layout: layouts/base.njk
 This meetup group is about a vibrant community of Cloud Native enthusiasts who want to learn, architect/design/develop applications based on cloud native architecture principles, tools & frameworks (as recommended by CNCF ( http://www.cncf.io ). We will only organize meetups on DevOps, CI/CD, Microservices, Containers (Kubernetes, Docker), and Automation. We will explore all the tools in the Cloud Native ecosystem.
 
 <br>
-<br>
 
 ## Connect 🤚
 
@@ -18,7 +17,6 @@ This meetup group is about a vibrant community of Cloud Native enthusiasts who w
 - [Linkedin](https://www.linkedin.com/in/cncfkochi/)
 - [Twitter](https://twitter.com/cncfkochi)
 
-<br>
 <br>
 
 ## Leadeship Team 😎
@@ -30,16 +28,13 @@ This meetup group is about a vibrant community of Cloud Native enthusiasts who w
 - [Praveesh V](https://www.linkedin.com/in/praveeshv/), IT Engineer, Founding Minds Inc.
 
 <br>
-<br>
-
 
 ## Contact 📩
 
 <br>
 
-<mailto: info@cncfkochi.in>
+mailto:info@cncfkochi.in
 
-<br>
 <br>
 
 ## Want to deliver a talk ? 💬
