@@ -13,7 +13,6 @@ We are a group of peoples interested in talking about Cloud Native and Open sour
 
 ## Post pages
 
-The pages found in in the posts
 
 <ul class="listing">
 {%- for page in collections.post -%}
