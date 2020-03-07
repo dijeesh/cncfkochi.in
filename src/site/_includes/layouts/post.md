@@ -11,7 +11,8 @@ templateEngineOverride: njk, md
   {{ content | safe }}
   <div class="footnote">
     <p>
-      [Join our Meetup Group 👍](https://www.meetup.com/Cloud-Native-Computing-Kochi/)
+      - CNCF Kochi Community
+      <!-- [Join our Meetup Group 👍](https://www.meetup.com/Cloud-Native-Computing-Kochi/) -->
     </p>
   </div>
 </main>
