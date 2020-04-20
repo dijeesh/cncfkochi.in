@@ -23,7 +23,7 @@ This meetup group is about a vibrant community of Cloud Native enthusiasts who w
 
 <br>
 
-- [Vishnu KS](https://www.linkedin.com/in/vishnu-ks/), DevSecOps Team Lead, Adfolks LLC.
+- [Vishnu KS](https://www.linkedin.com/in/iamvishnuks/), DevSecOps Team Lead, Adfolks LLC.
 - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Associate Director - Cloud Services, Network Redux LLC.
 - [Praveesh V](https://www.linkedin.com/in/praveeshv/), IT Engineer, Founding Minds Inc.
 
