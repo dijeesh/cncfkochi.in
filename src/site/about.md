@@ -38,3 +38,5 @@ mailto:info@cncfkochi.in
 <br>
 
 ## Want to deliver a talk ? 💬
+
+Submit talk proposal [here](https://forms.gle/3GT4rsKDt1HquR1m6) 
