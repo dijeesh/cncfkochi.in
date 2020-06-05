@@ -7,9 +7,9 @@ date: 2020-06-05
 
 OSCONF is a platform built to connect & bring all leading Meetup communities, Cloud native experts, Evangelists & DevOps together under one roof. It is a non-profit community event which allows you to interact with community leaders, ambassadors & open community contributors.
 
-<br>
+<!-- <br>
 
-osconf("/images/osconf-kochi-2020.png")
+osconf("/images/osconf-kochi-2020.png") -->
 
 <br>
 
