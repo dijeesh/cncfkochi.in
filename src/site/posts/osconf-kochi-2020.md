@@ -7,10 +7,7 @@ date: 2020-06-05
 
 OSCONF is a platform built to connect & bring all leading Meetup communities, Cloud native experts, Evangelists & DevOps together under one roof. It is a non-profit community event which allows you to interact with community leaders, ambassadors & open community contributors.
 
-![osconf]("/images/osconf-kochi-2020.png")
-
-osconf-image:url("/images/osconf-kochi-2020.png")
-
+<br>
 
 After successfull events in Bangalore and Pune, Collabnix Community is planning to conduct the next event Kochi in association with all leading tech communities in Kochi.
 
