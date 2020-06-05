@@ -9,6 +9,10 @@ OSCONF is a platform built to connect & bring all leading Meetup communities, Cl
 
 <br>
 
+osconf("/images/osconf-kochi-2020.png")
+
+<br>
+
 After successfull events in Bangalore and Pune, Collabnix Community is planning to conduct the next event Kochi in association with all leading tech communities in Kochi.
 
 <br>
