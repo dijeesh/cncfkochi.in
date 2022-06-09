@@ -6,7 +6,8 @@ layout: layouts/base.njk
 
 ## Welcome 🤝
 
-This meetup group is about a vibrant community of Cloud Native enthusiasts who want to learn, architect/design/develop applications based on cloud native architecture principles, tools & frameworks (as recommended by CNCF ( http://www.cncf.io ). We will only organize meetups on DevOps, CI/CD, Microservices, Containers (Kubernetes, Docker), and Automation. We will explore all the tools in the Cloud Native ecosystem.
+This meetup group is about a vibrant community of Cloud Native enthusiasts who want to learn/architect/design/develop applications based on cloud native architecture principles, tools & frameworks (as recommended by [CNCF](http://www.cncf.io).
+
 
 <br>
 
@@ -23,9 +24,9 @@ This meetup group is about a vibrant community of Cloud Native enthusiasts who w
 
 <br>
 
-- [Vishnu KS](https://www.linkedin.com/in/iamvishnuks/), DevSecOps Team Lead, Adfolks LLC.
-- [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Associate Director - Cloud Services, Network Redux LLC.
-- [Praveesh V](https://www.linkedin.com/in/praveeshv/), IT Engineer, Founding Minds Inc.
+- [Vishnu KS](https://www.linkedin.com/in/iamvishnuks/), Site Reliability Engineer, AsianLogic
+- [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Director of Engineering, Sedai
+- [Praveesh V](https://www.linkedin.com/in/praveeshv/), Associate Consultant, Envestnet Inc
 
 <br>
 
