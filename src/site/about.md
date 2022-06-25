@@ -27,6 +27,7 @@ This meetup group is about a vibrant community of Cloud Native enthusiasts who w
 - [Vishnu KS](https://www.linkedin.com/in/iamvishnuks/), Site Reliability Engineer, AsianLogic
 - [Dijeesh Padinharethil](https://www.linkedin.com/in/dijeesh-padinharethil/), Director of Engineering, Sedai
 - [Praveesh V](https://www.linkedin.com/in/praveeshv/), Associate Consultant, Envestnet Inc
+- [Muhammed Iqbal PB](https://www.linkedin.com/in/iqbalpb/), DevSecOps Engineer at Emvigo
 
 <br>
 
