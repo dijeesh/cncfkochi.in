@@ -12,7 +12,7 @@ templateEngineOverride: njk, md
   <div class="footnote">
     <p>
 
-      - CNCF Kochi Community Team, Join us at meetup.com/loud-Native-Computing-Kochi 👍
+      - CNCF Kochi Community Team, Join us at community.cncf.io/kochi 👍
       <!-- [Join our Meetup Group 👍](https://www.meetup.com/Cloud-Native-Computing-Kochi/) -->
     </p>
   </div>
