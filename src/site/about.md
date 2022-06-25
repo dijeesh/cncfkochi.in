@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
 ## Welcome 🤝
 
-This meetup group is about a vibrant community of Cloud Native enthusiasts who want to learn/architect/design/develop applications based on cloud native architecture principles, tools & frameworks (as recommended by [CNCF](http://www.cncf.io).
+This meetup group is about a vibrant community of Cloud Native enthusiasts who want to learn/architect/design/develop applications based on cloud native architecture principles, tools & frameworks (as recommended by [CNCF](http://www.cncf.io) ).
 
 
 <br>
